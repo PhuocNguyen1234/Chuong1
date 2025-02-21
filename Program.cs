@@ -13,12 +13,11 @@ namespace Bai_1
             int n, i;
             float s;
             s = 0;
-            Console.Write("Nhap vao so n: ");
+            Console.Write("Nhap vao so n (n khac 0): ");
             n = int.Parse(Console.ReadLine());
             for (i = 1; i <= n; i++)
                 s = s + 1.0f / i;
             Console.Write("Ket qua cua phep tinh: 1 + 1/2 + ... + 1/{0} la: {1}", n, s);
-
         }
     }
 }
