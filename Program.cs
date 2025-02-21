@@ -16,9 +16,7 @@ namespace Bai_1
             Console.Write("Nhap vao so n: ");
             n = int.Parse(Console.ReadLine());
             for (i = 1; i <= n; i++)
-            {
                 s = s + 1.0f / i;
-            }
             Console.Write("Ket qua cua phep tinh: 1 + 1/2 + ... + 1/{0} la: {1}", n, s);
 
         }
