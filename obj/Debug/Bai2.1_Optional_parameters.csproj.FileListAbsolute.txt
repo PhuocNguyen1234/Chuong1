@@ -1,0 +1,7 @@
+E:\LaptrinhC#\Bai2.1_Optional_parameters\bin\Debug\Bai2.1_Optional_parameters.exe.config
+E:\LaptrinhC#\Bai2.1_Optional_parameters\bin\Debug\Bai2.1_Optional_parameters.exe
+E:\LaptrinhC#\Bai2.1_Optional_parameters\bin\Debug\Bai2.1_Optional_parameters.pdb
+E:\LaptrinhC#\Bai2.1_Optional_parameters\obj\Debug\Bai2.1_Optional_parameters.csproj.AssemblyReference.cache
+E:\LaptrinhC#\Bai2.1_Optional_parameters\obj\Debug\Bai2.1_Optional_parameters.csproj.CoreCompileInputs.cache
+E:\LaptrinhC#\Bai2.1_Optional_parameters\obj\Debug\Bai2.1_Optional_parameters.exe
+E:\LaptrinhC#\Bai2.1_Optional_parameters\obj\Debug\Bai2.1_Optional_parameters.pdb
